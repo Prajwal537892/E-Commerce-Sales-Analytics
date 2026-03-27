@@ -191,7 +191,7 @@ ORDER BY total_spent DESC
 **Step 1** — Clone this repository
 
 ```bash
-git clone https://github.com/Meghana-b-u/ecommerce-sales-analytics.git
+git clone https://github.com/Prajwal53782/E-Commerce-Sales-Analytics.git
 ```
 
 **Step 2** — Download the dataset from Kaggle
@@ -219,9 +219,9 @@ OR open Live_project.pbix in Power BI Desktop
 
 ## 👤 Author
 
-**Meghana Balappa Uppar**
-- GitHub: [Meghana-b-u](https://github.com/Prajwal537892)
-- LinkedIn: [meghana-uppar](https://www.linkedin.com/in/prajwal5638/)
+**Prajwal Agasimundina**
+- GitHub: [PRAJWAL AGASIMUNDINA](https://github.com/Prajwal537892)
+- LinkedIn: [PRAJWAL AGASIMUNDINA](https://www.linkedin.com/in/prajwal5638/)
 
 ---
 
