@@ -220,8 +220,8 @@ OR open Live_project.pbix in Power BI Desktop
 ## 👤 Author
 
 **Meghana Balappa Uppar**
-- GitHub: [Meghana-b-u](https://github.com/Meghana-b-u)
-- LinkedIn: [meghana-uppar](https://www.linkedin.com/in/meghana-uppar-374603267/)
+- GitHub: [Meghana-b-u](https://github.com/Prajwal537892)
+- LinkedIn: [meghana-uppar](https://www.linkedin.com/in/prajwal5638/)
 
 ---
 
